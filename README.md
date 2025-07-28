@@ -1,5 +1,10 @@
 # Medical AI and LLM-as-a-Judge
 
+## Example Models
+From [Abraham et al, 2025]:
+Unimodal comp path: UNI, CONCH, Virchow.    
+Multimodal: LLaVA-Med (Microsoft), PathChat (Harvard), CheXagent (Stanford), BiomedCLIP (Microsoft, RoentGen (Stanford+StabilityAI).   
+
 ## Using LLM-as-a-Judge for Automated Formalized Evaluation
 
 ### Introduction
@@ -46,3 +51,4 @@ People working in LLM eval need to be familiar with these tools and concepts:
 
 **References**
 [1] J. Gu et al., “A Survey on LLM-as-a-Judge,” Mar. 09, 2025, arXiv: arXiv:2411.15594. doi: 10.48550/arXiv.2411.15594.
+[2] Tanishq Mathew Abraham, and Paul Scotti. 2025. “The Medical AI Manifesto - Introducing Sophont.” March 31, 2025. https://www.tanishq.ai/blog/posts/sophont.html.
